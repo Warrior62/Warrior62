@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Warrior62
 - 👀 I’m interested in Football, Tennis, Python code
 - 🌱 I’m currently learning AngularJS
-- 💞️ I’m looking to collaborate on DevOps project
+- 💞️ I’m looking for collaborate on DevOps project
 - 📫 How to reach me ...
 
 <!---
